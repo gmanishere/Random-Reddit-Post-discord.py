@@ -12,6 +12,10 @@ Setting it up:
   Create a Discord Application on https://discord.com/developers/applications.
   
   Go to discord_secrets.py and replace the value YOUR_BOT_KEY with the Token you get on the Bot section of your application.
+  
+  
+  
+      Invite this bot to your server, and you should be done. The command can be used with "random_post [subreddit name with no 'r/']"
 
 
 
