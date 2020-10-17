@@ -11,7 +11,7 @@ Setting it up:
   
   Create a Discord Application on https://discord.com/developers/applications.
   
-  Go to discord_secrets.py and replace the value YOUR_BOT_KEY with the Token you get on the Bot section of your application.
+  Go to discord_secrets.py and replace the value YOUR_BOT_TOKEN with the Token you get on the Bot section of your discord Application.
   
   
   
