@@ -26,7 +26,6 @@ async def random_post(ctx, args):
         sub = reddit.subreddit(args) # get the subreddit from the command arguments
 
         if not sub.over18:
-
             post = list(sub.hot(limit=60)) # Retrieve 60 hot submissions from the subreddit.
             re = random.choice(post) # get one of them
 
