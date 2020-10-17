@@ -1,1 +1,4 @@
-
+RedditClientSecret = YOUR_REDDIT_CLIENT_SECRET
+RedditClientAgent = YOUR_REDDIT_CLIENT_AGENT
+RedditUsername = YOUR_REDDIT_USERNAME
+RedditPassword = YOUR_REDDIT_PASSWORD
