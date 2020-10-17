@@ -9,7 +9,7 @@ reddit = praw.Reddit(client_id=RedditClientID,
                      password = RedditPassword)
                      
 client = discord.Client()
-bot = commands.Bot(command_prefix='YOUR_PREFIX ')                   
+bot = commands.Bot(command_prefix="YOUR_BOT_PREFIX")                   
 
 
 
