@@ -50,4 +50,4 @@ async def random_post(ctx, args):
     await ctx.send(embed=rp_result)
     
     
-bot.run(DiscordToken)
+bot.run(discordToken)
