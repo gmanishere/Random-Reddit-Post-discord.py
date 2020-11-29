@@ -1,3 +1,7 @@
+import praw
+import discord
+from discord.ext.commands import has_permissions 
+
 from reddit_secrets import *
 from discord_secrets  import *
 
